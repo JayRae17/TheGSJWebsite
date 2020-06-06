@@ -331,19 +331,15 @@ opacity: 0.5;
 }
 
 .paragraph_mem_end{
-  margin-left: 14rem;
   margin-top: 2rem;
   margin-bottom: 3rem;
   font-family: Roboto;
-font-style: italic;
-font-weight: normal;
-font-size: 16px;
-line-height: 32px;
-/* or 200% */
-
-letter-spacing: -0.015em;
-text-transform: capitalize;
-color: #696969;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 32px;
+  letter-spacing: -0.015em;
+  color: #696969;
 }
 
 
@@ -451,7 +447,7 @@ text-align: center;
 }
 
 .prices{
-  font-family: Roboto;
+  font-family: 'Roboto';
 font-style: normal;
 font-weight: normal;
 font-size: 16px;
@@ -462,26 +458,24 @@ line-height: 32px;
 
 
 .form_button{
-  margin-top: 2rem;
   margin-left: 5.5rem;
   width: 192px;
-  height: 35px;
-
-
   background: linear-gradient(128.34deg, #02D1FF -290.38%, #FF5FDC 302.21%);
   opacity: 0.8;
   text-align: center;
 
-  font-family: Roboto;
+  font-family: 'Roboto';
   font-style: normal;
   font-weight: 500;
-  font-size: 25px;
-  line-height: 32px;
+  font-size: 20px;
   /* identical to box height, or 178% */
-
   letter-spacing: -0.015em;
-  text-transform: capitalize;
-
   color: #FFFFFF;
 }
 
+
+.form_button:hover{
+  color: #fff;
+  background: #15205C;
+
+}

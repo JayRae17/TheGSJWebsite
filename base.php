@@ -11,7 +11,10 @@
     
    
     <link rel="stylesheet" type="text/css" href="styles/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="styles/od.css">
+    <link rel="stylesheet" type="text/css" href="styles/main.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+    
 
     <!-- <link rel="stylesheet" href="styles/app.css"> -->
     <!-- {% block css %} {% endblock%} -->

@@ -7,13 +7,15 @@
         <span class = "decor"> </span>
 
         <div class = "content"> 
-            <h4 class="mem_subtitle"> Membership of the Geological Society of Jamaica</h4>
-            <div class = "paragraph_mem">
-            Membership in the Society is ope to all persons with an interest in Geology and all related earth sciences. Application for<br> Membership may be submitted to the Secretary/Treasurer, Geological Society of Jamaica. c/o Department of Geography &<br>Geology, University of the West Indies, Mona, Kingston 7, Jamaica.
+            <h4 class="content_header ml-5"> Membership of the Geological Society of Jamaica</h4>
+            <div class = "paragraph ml-5 mr-5">
+            Membership in the Society is ope to all persons with an interest in Geology and all related earth sciences. 
+            Application for Membership may be submitted to the Secretary/Treasurer, Geological Society of Jamaica. 
+            c/o Department of Geography & Geology, University of the West Indies, Mona, Kingston 7, Jamaica.
             </div>
 
 
-            <div class="tile_layout">
+            <div class="tile_layout mt-5 ml-5">
               <div class="m_tile0"></div>
               <div class="m_tile1">
                 <p class="steptitle"><br>01</p>
@@ -29,13 +31,14 @@
                <div class="m_tile2">
                 <p class="steptitle"><br>02</p>
                 <p class="secondline">Membership Form</p>
-                <p class="fourthline">The form can be downloaded  and<br> completed and mailed in with a<br> cheque payable to the Geological <br>Society of Jamaica.</p>
-                <a  href="index.php"><div class="form_button">Form PDF</div></a>
+                <p class="fourthline mt-3">The form can be downloaded  and<br> completed and mailed in with a<br> cheque payable to the Geological <br>Society of Jamaica.</p>
+                <a class="btn form_button mt-4 pb-2" href="index.php"> Form PDF </a>
+                
               </div>
           </div>
 
 
-          <div class="paragraph_mem_end">Mail to: Membership, Geological Society of Jamaica, Department of Geography and Geology, The University of the West<br> Indies, Mona, Kingston 7, Jamaica.</div>
+          <div class="paragraph_mem_end ml-5"><b>Mail to:</b> Membership, Geological Society of Jamaica, Department of Geography and Geology, The University of the West Indies, Mona, <br> Kingston 7, Jamaica.</div>
 
       
 

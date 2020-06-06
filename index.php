@@ -1,17 +1,59 @@
 
-<?php  ?>
+
 <head>
 	<meta charset="utf-8">
 	<title>form-v1 by Colorlib</title>
 	<!-- Mobile Specific Metas -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<!-- Font-->
+	<link rel="stylesheet" type="text/css" href="styles/bootstrap.min.css">
+
+ 
 	<link rel="stylesheet" type="text/css" href="css/opensans-font.css">
 	<link rel="stylesheet" type="text/css" href="fonts/material-design-iconic-font/css/material-design-iconic-font.min.css">
 	<!-- Main Style Css -->
     <link rel="stylesheet" href="css/style.css"/>
 </head>
+
+
 <body>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-primaryV2 fixed-top">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="home.php">HOME <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="about.php">ABOUT</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="council.php">COUNCIL</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">EVENTS</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="geode.php">THE GEODE</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="membership.php">MEMBERSHIP</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">CARIBBEAN JOURNAL</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">AWARDS</a>
+      </li>
+    </ul>    
+  </div>
+</nav>
+
+<div class = "center-form">
 	<div class="page-content">
 		<div class="form-v1-content">
 			<div class="wizard-form">
@@ -187,6 +229,7 @@
 			</div>
 		</div>
 	</div>
+</div>
 	<script src="js/jquery-3.3.1.min.js"></script>
 	<script src="js/jquery.steps.js"></script>
 	<script src="js/main.js"></script>
